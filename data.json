@@ -1,0 +1,338 @@
+{
+    "cacheName": {
+        "FB-3609057565789695": null,
+        "FB-100027867756589": "Minh Quang Hoàng",
+        "FB-100028329848295": "Diệu Linhh",
+        "FB-100053641690394": "Anh Mine"
+    },
+    "cacheNameExpires": {
+        "FB-100027867756589": 1595776317134,
+        "FB-100028329848295": 1595776317134,
+        "FB-100053641690394": 1595776317134,
+        "FB-3609057565789695": 1595776317134
+    },
+    "everyoneTagBlacklist": {},
+    "metricID": "0fc5fd66d5e942d4",
+    "metricSecret": "5cf4cf3e6fabbc36b1367f73d980bdd0",
+    "createGroupCooldown": {},
+    "arrowChat": {
+        "FB-3609057565789695": {}
+    },
+    "rbclist": {},
+    "denyCommand": [],
+    "ecoGambling": {
+        "blackjack": {}
+    },
+    "rouletteData": {},
+    "economyIncome": {
+        "config": {
+            "payout": {
+                "work": {
+                    "min": 150,
+                    "max": 200
+                },
+                "slut": {
+                    "min": 300,
+                    "max": 450
+                },
+                "crime": {
+                    "min": 600,
+                    "max": 850
+                }
+            },
+            "fineamount": {
+                "slut": {
+                    "min": 250,
+                    "max": 400
+                },
+                "crime": {
+                    "min": 550,
+                    "max": 800
+                }
+            },
+            "failrate": {
+                "slut": 30,
+                "crime": 60
+            },
+            "cooldown": {
+                "work": 15,
+                "slut": 20,
+                "crime": 30,
+                "rob": 3600
+            }
+        },
+        "data": {
+            "work": {
+                "FB-100027867756589": 1595171369480
+            },
+            "slut": {},
+            "crime": {},
+            "rob": {},
+            "minting": {
+                "amountPerMinute": 10,
+                "userData": {}
+            }
+        }
+    },
+    "economy": {
+        "FB-100027867756589": "19600000000n"
+    },
+    "economyStart": "0n",
+    "economyTX": [
+        {
+            "affectedID": "FB-100027867756589",
+            "operation": "add",
+            "value": "19600000000n",
+            "reason": "/work command",
+            "oldbalance": "0n",
+            "newbalance": "19600000000n"
+        }
+    ],
+    "eXPerience": {
+        "xp": {
+            "100027867756589": 7,
+            "100053641690394": 7
+        },
+        "checkRankCooldown": {},
+        "xpPerAction": 1
+    },
+    "giftcode": {},
+    "simsimiList": {
+        "ping": "pong!"
+    },
+    "toggleThanos": {
+        "3609057565789695": true
+    },
+    "thanosMessageData": {
+        "mid.$gAAzSazIuzf95mORKYFzZ577XUh2h": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/help",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mORKYFzZ577XUh2h",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171340896",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mORPU1zZ58EMeIpQ": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mORPU1zZ58EMeIpQ",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Ḃὀե] Danh sách lệnh:\n1. /help [trang]\n2. /adduser <Facebook profile link>\n3. /listarrow\n4. /delarrow <chat>\n7. /rbc\n10. /dice <half (nửa)/all (toàn bộ)/số tiền> <over (trên)/under (dưới)> <số dự đoán>\n11. /roulette\n12. /baicao <half (nửa)/all (toàn bộ)/số tiền>\n13. /rps <half (nửa)/all (toàn bộ)/số tiền> [rock (búa)/paper (bao)/scissors (kéo)]\n14. /work\n15. /slut\n(Trang 1/4)\nGõ `/help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171342163,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mORKYFzZ577XUh2h",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/help",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171340896
+            }
+        },
+        "mid.$gAAzSazIuzf95mOS7jVzZ59sy-wkx": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/work",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOS7jVzZ59sy-wkx",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171369869",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOTA8lzZ591ubgM5": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOTA8lzZ591ubgM5",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Ɓṓṭ] +196Ƀ | Balance: 196Ƀ",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171371250,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOS7jVzZ59sy-wkx",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/work",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171369869
+            }
+        },
+        "mid.$gAAzSazIuzf95mOU45FzZ5_p537Zh": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/help adduser",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOU45FzZ5_p537Zh",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171401956",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOU88VzZ5_xxPG7Q": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOU88VzZ5_xxPG7Q",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Ɓօȶ] /adduser <Facebook profile link>\r\nThêm 1 người bằng link profile Facebook.\r\n\n<>: yêu cầu có\n[]: không yêu cầu có",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171402993,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOU45FzZ5_p537Zh",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/help adduser",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171401956
+            }
+        },
+        "mid.$gAAzSazIuzf95mOWtxlzZ6Be-rJJC": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/help listarrow",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOWtxlzZ6Be-rJJC",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171431878",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOWxwlzZ6BmkRAwT": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOWxwlzZ6BmkRAwT",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Ɓọṫ] /listarrow\r\nXem danh sách câu trả lời được đặt bằng =>\r\n\n<>: yêu cầu có\n[]: không yêu cầu có",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171432898,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOWtxlzZ6Be-rJJC",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/help listarrow",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171431878
+            }
+        },
+        "mid.$gAAzSazIuzf95mOX6q1zZ6Cr7JRMP": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/listarrow",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOX6q1zZ6Cr7JRMP",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171451563",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOX-5lzZ6CzWqxQA": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOX-5lzZ6CzWqxQA",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Вởť] ArrowChat response list (0 total): \r\nHow to set a new ArrowChat response: \r\n/<a> => <b> (example: `/ping => pong`) or /<a> => <b> | <c> | <d> (example: `/flip a coin => tail | head`)",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171452646,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOX6q1zZ6Cr7JRMP",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/listarrow",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171451563
+            }
+        },
+        "mid.$gAAzSazIuzf95mOZUxFzZ6EF3p1pe": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/help dearrow",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOZUxFzZ6EF3p1pe",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171474628",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOZYw1zZ6ENk-BdW": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOZYw1zZ6ENk-BdW",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Βǒէ] /dearrow\r\nKhông tìm thấy lệnh",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171475651,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOZUxFzZ6EF3p1pe",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/help dearrow",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171474628
+            }
+        },
+        "mid.$gAAzSazIuzf95mOb2DFzZ6GnP2gpZ": {
+            "type": "message",
+            "senderID": "100027867756589",
+            "body": "/help",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOb2DFzZ6GnP2gpZ",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1595171515916",
+            "isGroup": true
+        },
+        "mid.$gAAzSazIuzf95mOb6eVzZ6GvQYVMi": {
+            "type": "message_reply",
+            "threadID": "3609057565789695",
+            "messageID": "mid.$gAAzSazIuzf95mOb6eVzZ6GvQYVMi",
+            "senderID": "100053641690394",
+            "attachments": [],
+            "body": "[Вŏʈ] Danh sách lệnh:\n1. /help [trang]\n2. /adduser <Facebook profile link>\n3. /listarrow\n4. /delarrow <chat>\n7. /rbc\n10. /dice <half (nửa)/all (toàn bộ)/số tiền> <over (trên)/under (dưới)> <số dự đoán>\n11. /roulette\n12. /baicao <half (nửa)/all (toàn bộ)/số tiền>\n13. /rps <half (nửa)/all (toàn bộ)/số tiền> [rock (búa)/paper (bao)/scissors (kéo)]\n14. /work\n15. /slut\n(Trang 1/4)\nGõ `/help [lệnh]` để biết thêm chi tiết về lệnh đó.",
+            "isGroup": true,
+            "mentions": {},
+            "timestamp": 1595171517049,
+            "messageReply": {
+                "threadID": "3609057565789695",
+                "messageID": "mid.$gAAzSazIuzf95mOb2DFzZ6GnP2gpZ",
+                "senderID": "100027867756589",
+                "attachments": [],
+                "body": "/help",
+                "isGroup": true,
+                "mentions": {},
+                "timestamp": 1595171515916
+            }
+        }
+    },
+    "userLanguage": {},
+    "fbBannedUsers": [],
+    "messageList": {},
+    "facebookChatGroupList": [
+        "3609057565789695"
+    ]
+}
